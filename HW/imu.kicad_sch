@@ -1,0 +1,28 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "2ff3ad58-925a-48fa-8041-40fb8b1cec1d")
+	(paper "A4")
+	(lib_symbols)
+	(text_box "We want an IMU so we can detect if the device has lost control and starts spinning"
+		(exclude_from_sim no)
+		(at 40.64 35.56 0)
+		(size 22.86 16.51)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "e8b9812e-1c6e-4557-a345-7d74cbb3fb94")
+	)
+)

@@ -1,0 +1,234 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "f80e1bcb-bd86-468e-87d5-570e37fd0de9")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 87.63 57.15)
+		(size 66.04 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "13e5d6fa-172a-4c8a-8944-920c996b872f")
+		(property "Sheetname" "MCU"
+			(at 87.63 56.4384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 87.63 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "RF" input
+			(at 121.92 57.15 90)
+			(uuid "4283f16f-a5f3-4258-b614-ee2fdeb22e42")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Capstan"
+				(path "/f80e1bcb-bd86-468e-87d5-570e37fd0de9"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 127)
+		(size 35.56 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "509c38e3-e9d7-46cd-b729-2e111b5679a3")
+		(property "Sheetname" "IMU"
+			(at 64.77 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "imu.kicad_sch"
+			(at 64.77 151.7146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Capstan"
+				(path "/f80e1bcb-bd86-468e-87d5-570e37fd0de9"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 124.46 113.03)
+		(size 60.96 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8fe3218c-f9da-47db-a71a-ac29f27c2bd7")
+		(property "Sheetname" "Battery"
+			(at 124.46 112.3184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "battery.kicad_sch"
+			(at 124.46 149.1746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Capstan"
+				(path "/f80e1bcb-bd86-468e-87d5-570e37fd0de9"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 181.61 60.96)
+		(size 59.69 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c434873e-36bd-4491-a7d1-109b760a090c")
+		(property "Sheetname" "Motor"
+			(at 181.61 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "motor.kicad_sch"
+			(at 181.61 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Capstan"
+				(path "/f80e1bcb-bd86-468e-87d5-570e37fd0de9"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 97.79 19.05)
+		(size 52.07 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f9dbfb64-6ce6-433d-a15e-bf3362d8eba9")
+		(property "Sheetname" "RF"
+			(at 97.79 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rf.kicad_sch"
+			(at 97.79 50.1146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Capstan"
+				(path "/f80e1bcb-bd86-468e-87d5-570e37fd0de9"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

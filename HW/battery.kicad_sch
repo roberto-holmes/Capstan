@@ -1,0 +1,28 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "cd35955f-7578-4d64-a64d-be233b4241c9")
+	(paper "A4")
+	(lib_symbols)
+	(text_box "Battery should be able to power the device by itself or supplement the USB power.\n\nWill want a coulomb counter and undervoltage, overvoltage, and overcurrent protection. Maybe temperature too?"
+		(exclude_from_sim no)
+		(at 25.4 24.13 0)
+		(size 35.56 29.21)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "529912fb-6194-4f0f-8aa7-dece3bc1ab1c")
+	)
+)

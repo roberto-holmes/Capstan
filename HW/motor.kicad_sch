@@ -1,0 +1,28 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "d2deb3e7-af57-4a02-84c6-fb9dcf7ecfba")
+	(paper "A4")
+	(lib_symbols)
+	(text_box "Drive a motor to be able to provide force feedback and reduce cogging.\n\nWill also need an encoder."
+		(exclude_from_sim no)
+		(at 25.4 24.13 0)
+		(size 25.4 24.13)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "61f4a45e-2f6c-4295-9839-47370fe662fb")
+	)
+)
