@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "lib")(type "KiCad")(uri "${KIPRJMOD}/lib.kicad_sym")(options "")(descr ""))
+  (lib (name "BMI270")(type "KiCad")(uri "${KIPRJMOD}/lib/BMI270.kicad_sym")(options "")(descr ""))
+  (lib (name "STDRIVE101")(type "KiCad")(uri "${KIPRJMOD}/lib/STDRIVE101.kicad_sym")(options "")(descr ""))
+  (lib (name "STL40DN3LLH5")(type "KiCad")(uri "${KIPRJMOD}/lib/STL40DN3LLH5.kicad_sym")(options "")(descr ""))
+)

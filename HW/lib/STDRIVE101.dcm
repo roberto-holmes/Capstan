@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STDRIVE101
+D Gate Drivers Low voltage gate driver for driving three-phase brushless motors
+K
+F 
+$ENDCMP
+#
+#End Doc Library
