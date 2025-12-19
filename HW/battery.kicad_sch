@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "cd35955f-7578-4d64-a64d-be233b4241c9")
 	(paper "A4")
+	(title_block
+		(title "Capstan")
+		(date "2025-09-26")
+		(company "Roberto Holmes")
+	)
 	(lib_symbols
 		(symbol "Battery_Management:TP4056-42-ESOP8"
 			(exclude_from_sim no)
@@ -3217,7 +3222,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "6V 400mA Power rail for gate driver"
+	(text "6V 250mA Power rail for gate driver"
 		(exclude_from_sim no)
 		(at 137.16 15.494 0)
 		(effects
@@ -3297,10 +3302,10 @@
 		)
 		(uuid "fb5fd309-71e3-4238-863b-e667a9a286b2")
 	)
-	(text_box "Battery should be able to power the device by itself or supplement the USB power.\n\nV2:\n- Undervoltage protection\n- Overcurrent protection?"
+	(text_box "Battery should be able to power the device by itself or supplement the USB power.\n\nV2:\n- Undervoltage protection\n- Overcurrent protection\n- Programable max charge voltage"
 		(exclude_from_sim no)
-		(at 13.97 177.8 0)
-		(size 35.56 17.78)
+		(at 140.97 166.37 0)
+		(size 35.56 30.48)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
@@ -4709,7 +4714,7 @@
 				)
 			)
 		)
-		(property "Value" "TPS61040DBV"
+		(property "Value" "TPS61041DBV"
 			(at 138.43 34.036 0)
 			(effects
 				(font
@@ -6329,7 +6334,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2nF"
+		(property "Value" "10pF"
 			(at 168.91 42.164 90)
 			(effects
 				(font
@@ -6625,7 +6630,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.mccsemi.com/up_pdf/MBR0520~MBR0580(SOD123).pdf"
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/mbr0530-d.pdf"
 			(at 153.67 30.48 0)
 			(effects
 				(font

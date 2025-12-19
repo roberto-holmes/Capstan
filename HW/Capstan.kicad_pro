@@ -228,12 +228,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      [
-        "power_pin_not_driven|2273300|1435100|f6026d89-d2bc-4538-b6dd-32e4410f68c1|00000000-0000-0000-0000-000000000000|/f80e1bcb-bd86-468e-87d5-570e37fd0de9/13e5d6fa-172a-4c8a-8944-920c996b872f|/f80e1bcb-bd86-468e-87d5-570e37fd0de9/13e5d6fa-172a-4c8a-8944-920c996b872f|",
-        ""
-      ]
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -448,6 +443,7 @@
       "single_global_label": "warning",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -635,7 +631,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "./",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",

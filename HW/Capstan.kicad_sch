@@ -4,10 +4,15 @@
 	(generator_version "9.0")
 	(uuid "f80e1bcb-bd86-468e-87d5-570e37fd0de9")
 	(paper "A4")
+	(title_block
+		(title "Capstan")
+		(date "2025-09-26")
+		(company "Roberto Holmes")
+	)
 	(lib_symbols)
 	(wire
 		(pts
-			(xy 165.1 50.8) (xy 177.8 50.8)
+			(xy 158.75 82.55) (xy 171.45 82.55)
 		)
 		(stroke
 			(width 0)
@@ -17,7 +22,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 95.25) (xy 177.8 95.25)
+			(xy 158.75 127) (xy 171.45 127)
 		)
 		(stroke
 			(width 0)
@@ -27,7 +32,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 73.66) (xy 177.8 73.66)
+			(xy 158.75 105.41) (xy 171.45 105.41)
 		)
 		(stroke
 			(width 0)
@@ -37,7 +42,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 85.09) (xy 177.8 85.09)
+			(xy 158.75 116.84) (xy 171.45 116.84)
 		)
 		(stroke
 			(width 0)
@@ -47,7 +52,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 60.96) (xy 177.8 60.96)
+			(xy 158.75 92.71) (xy 171.45 92.71)
 		)
 		(stroke
 			(width 0)
@@ -57,7 +62,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 59.69) (xy 114.3 59.69)
+			(xy 95.25 91.44) (xy 107.95 91.44)
 		)
 		(stroke
 			(width 0)
@@ -67,7 +72,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 35.56) (xy 114.3 35.56)
+			(xy 95.25 67.31) (xy 107.95 67.31)
 		)
 		(stroke
 			(width 0)
@@ -77,7 +82,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 63.5) (xy 177.8 63.5)
+			(xy 158.75 95.25) (xy 171.45 95.25)
 		)
 		(stroke
 			(width 0)
@@ -87,7 +92,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 35.56) (xy 177.8 35.56)
+			(xy 158.75 67.31) (xy 171.45 67.31)
 		)
 		(stroke
 			(width 0)
@@ -97,7 +102,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 48.26) (xy 177.8 48.26)
+			(xy 158.75 80.01) (xy 171.45 80.01)
 		)
 		(stroke
 			(width 0)
@@ -107,7 +112,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 76.2) (xy 177.8 76.2)
+			(xy 158.75 107.95) (xy 171.45 107.95)
 		)
 		(stroke
 			(width 0)
@@ -117,7 +122,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 45.72) (xy 114.3 45.72)
+			(xy 95.25 77.47) (xy 107.95 77.47)
 		)
 		(stroke
 			(width 0)
@@ -127,7 +132,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 87.63) (xy 177.8 87.63)
+			(xy 158.75 119.38) (xy 171.45 119.38)
 		)
 		(stroke
 			(width 0)
@@ -137,7 +142,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 53.34) (xy 114.3 53.34)
+			(xy 95.25 85.09) (xy 107.95 85.09)
 		)
 		(stroke
 			(width 0)
@@ -147,7 +152,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 90.17) (xy 177.8 90.17)
+			(xy 158.75 121.92) (xy 171.45 121.92)
 		)
 		(stroke
 			(width 0)
@@ -157,7 +162,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 68.58) (xy 177.8 68.58)
+			(xy 158.75 100.33) (xy 171.45 100.33)
 		)
 		(stroke
 			(width 0)
@@ -167,7 +172,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 57.15) (xy 177.8 57.15)
+			(xy 158.75 88.9) (xy 171.45 88.9)
 		)
 		(stroke
 			(width 0)
@@ -177,7 +182,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 48.26) (xy 114.3 48.26)
+			(xy 95.25 80.01) (xy 107.95 80.01)
 		)
 		(stroke
 			(width 0)
@@ -187,7 +192,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 54.61) (xy 177.8 54.61)
+			(xy 158.75 86.36) (xy 171.45 86.36)
 		)
 		(stroke
 			(width 0)
@@ -197,7 +202,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 78.74) (xy 177.8 78.74)
+			(xy 158.75 110.49) (xy 171.45 110.49)
 		)
 		(stroke
 			(width 0)
@@ -207,7 +212,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 50.8) (xy 114.3 50.8)
+			(xy 95.25 82.55) (xy 107.95 82.55)
 		)
 		(stroke
 			(width 0)
@@ -217,7 +222,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 57.15) (xy 114.3 57.15)
+			(xy 95.25 88.9) (xy 107.95 88.9)
 		)
 		(stroke
 			(width 0)
@@ -226,7 +231,7 @@
 		(uuid "faf49d74-b881-4adb-bba9-050e0478385b")
 	)
 	(sheet
-		(at 114.3 33.02)
+		(at 107.95 64.77)
 		(size 50.8 64.77)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -242,7 +247,7 @@
 		)
 		(uuid "13e5d6fa-172a-4c8a-8944-920c996b872f")
 		(property "Sheetname" "MCU"
-			(at 114.3 32.3084 0)
+			(at 107.95 64.0584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -251,7 +256,7 @@
 			)
 		)
 		(property "Sheetfile" "mcu.kicad_sch"
-			(at 114.3 98.3746 0)
+			(at 107.95 130.1246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -260,7 +265,7 @@
 			)
 		)
 		(pin "CURRENT_SENSE_MOTOR_1" input
-			(at 165.1 85.09 0)
+			(at 158.75 116.84 0)
 			(uuid "0483a64b-3691-4d4d-9d1a-77bff9c28348")
 			(effects
 				(font
@@ -270,7 +275,7 @@
 			)
 		)
 		(pin "CURRENT_SENSE_MOTOR_2" input
-			(at 165.1 87.63 0)
+			(at 158.75 119.38 0)
 			(uuid "fca249dd-b78a-4cdc-8f0f-91815edc3782")
 			(effects
 				(font
@@ -280,7 +285,7 @@
 			)
 		)
 		(pin "CURRENT_SENSE_MOTOR_3" input
-			(at 165.1 90.17 0)
+			(at 158.75 121.92 0)
 			(uuid "b012196b-088d-43f7-b842-43f018b31b9d")
 			(effects
 				(font
@@ -290,7 +295,7 @@
 			)
 		)
 		(pin "CURRENT_SENSE_SYSTEM" input
-			(at 114.3 35.56 180)
+			(at 107.95 67.31 180)
 			(uuid "65715979-b4af-4166-ac3b-6f8cac38e9ce")
 			(effects
 				(font
@@ -300,7 +305,7 @@
 			)
 		)
 		(pin "HALL_DATA" bidirectional
-			(at 165.1 78.74 0)
+			(at 158.75 110.49 0)
 			(uuid "01474c00-faec-45f0-a3c3-e75a4548831d")
 			(effects
 				(font
@@ -310,7 +315,7 @@
 			)
 		)
 		(pin "HALL_SCK" output
-			(at 165.1 76.2 0)
+			(at 158.75 107.95 0)
 			(uuid "06761dc3-9747-4a74-a612-0b690936461e")
 			(effects
 				(font
@@ -320,7 +325,7 @@
 			)
 		)
 		(pin "IMU_MISO" input
-			(at 114.3 50.8 180)
+			(at 107.95 82.55 180)
 			(uuid "1b17ba08-11ea-49d3-a4b3-d50c94f82725")
 			(effects
 				(font
@@ -330,7 +335,7 @@
 			)
 		)
 		(pin "IMU_MOSI" output
-			(at 114.3 53.34 180)
+			(at 107.95 85.09 180)
 			(uuid "61608959-2fac-429d-87af-2952f1c9d9fb")
 			(effects
 				(font
@@ -340,7 +345,7 @@
 			)
 		)
 		(pin "IMU_SCK" output
-			(at 114.3 48.26 180)
+			(at 107.95 80.01 180)
 			(uuid "fe1c3df5-983a-4088-a530-ae98bbc24511")
 			(effects
 				(font
@@ -350,7 +355,7 @@
 			)
 		)
 		(pin "MOTOR_TEMP" input
-			(at 165.1 95.25 0)
+			(at 158.75 127 0)
 			(uuid "7d2100ee-e573-4345-b062-0d9c2d03e00a")
 			(effects
 				(font
@@ -360,7 +365,7 @@
 			)
 		)
 		(pin "TIM1_CH1" output
-			(at 165.1 48.26 0)
+			(at 158.75 80.01 0)
 			(uuid "4ad1f493-a2e1-4f10-9543-f08e974072ba")
 			(effects
 				(font
@@ -370,7 +375,7 @@
 			)
 		)
 		(pin "TIM1_CH1N" output
-			(at 165.1 50.8 0)
+			(at 158.75 82.55 0)
 			(uuid "2aa275c8-43be-41cb-bcbb-469c659ba994")
 			(effects
 				(font
@@ -380,7 +385,7 @@
 			)
 		)
 		(pin "TIM1_CH2" output
-			(at 165.1 54.61 0)
+			(at 158.75 86.36 0)
 			(uuid "091768ae-a39e-4e24-937e-ff8b6ab98b59")
 			(effects
 				(font
@@ -390,7 +395,7 @@
 			)
 		)
 		(pin "TIM1_CH2N" output
-			(at 165.1 57.15 0)
+			(at 158.75 88.9 0)
 			(uuid "ae7ef17d-d22d-4841-b0b3-775359026582")
 			(effects
 				(font
@@ -400,7 +405,7 @@
 			)
 		)
 		(pin "TIM1_CH3" output
-			(at 165.1 60.96 0)
+			(at 158.75 92.71 0)
 			(uuid "5447537b-b06e-4251-8980-2355723a993f")
 			(effects
 				(font
@@ -410,7 +415,7 @@
 			)
 		)
 		(pin "TIM1_CH3N" output
-			(at 165.1 63.5 0)
+			(at 158.75 95.25 0)
 			(uuid "c1de53b0-bdba-4aeb-8ab5-545132a40ac9")
 			(effects
 				(font
@@ -420,7 +425,7 @@
 			)
 		)
 		(pin "RF" bidirectional
-			(at 165.1 35.56 0)
+			(at 158.75 67.31 0)
 			(uuid "fff6a9a9-293c-4ddb-947c-a2588be7f49b")
 			(effects
 				(font
@@ -430,7 +435,7 @@
 			)
 		)
 		(pin "~{HALL_CS}" output
-			(at 165.1 73.66 0)
+			(at 158.75 105.41 0)
 			(uuid "ebbeb469-6e0c-402d-bba6-ac52fe2b15a5")
 			(effects
 				(font
@@ -440,7 +445,7 @@
 			)
 		)
 		(pin "~{IMU_CS}" output
-			(at 114.3 45.72 180)
+			(at 107.95 77.47 180)
 			(uuid "8d6fe59e-b84d-4ee9-82c1-e19d4ebbfebe")
 			(effects
 				(font
@@ -450,7 +455,7 @@
 			)
 		)
 		(pin "~{STDRIVE_FAULT}" input
-			(at 165.1 68.58 0)
+			(at 158.75 100.33 0)
 			(uuid "3c1aeb24-5f31-4613-b3a7-2aac626aa8f5")
 			(effects
 				(font
@@ -460,7 +465,7 @@
 			)
 		)
 		(pin "IMU_INT1" bidirectional
-			(at 114.3 59.69 180)
+			(at 107.95 91.44 180)
 			(uuid "72014d98-7780-4f6f-a9e7-f4d2ebc713d5")
 			(effects
 				(font
@@ -470,7 +475,7 @@
 			)
 		)
 		(pin "IMU_INT2" bidirectional
-			(at 114.3 57.15 180)
+			(at 107.95 88.9 180)
 			(uuid "46206e60-a24c-4846-8d28-8fff451d4589")
 			(effects
 				(font
@@ -488,7 +493,7 @@
 		)
 	)
 	(sheet
-		(at 88.9 43.18)
+		(at 82.55 74.93)
 		(size 12.7 19.05)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -504,7 +509,7 @@
 		)
 		(uuid "509c38e3-e9d7-46cd-b729-2e111b5679a3")
 		(property "Sheetname" "IMU"
-			(at 88.9 42.4684 0)
+			(at 82.55 74.2184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -513,7 +518,7 @@
 			)
 		)
 		(property "Sheetfile" "imu.kicad_sch"
-			(at 88.9 62.8146 0)
+			(at 82.55 94.5646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -522,7 +527,7 @@
 			)
 		)
 		(pin "MISO" output
-			(at 101.6 50.8 0)
+			(at 95.25 82.55 0)
 			(uuid "3f0941ce-7ca3-4c9f-9c1f-d9f80d1c17a2")
 			(effects
 				(font
@@ -532,7 +537,7 @@
 			)
 		)
 		(pin "MOSI" input
-			(at 101.6 53.34 0)
+			(at 95.25 85.09 0)
 			(uuid "ffa05930-a6ac-4c11-841f-d931c179ec39")
 			(effects
 				(font
@@ -542,7 +547,7 @@
 			)
 		)
 		(pin "SCK" input
-			(at 101.6 48.26 0)
+			(at 95.25 80.01 0)
 			(uuid "09b518fd-0bc2-45b1-8edf-df6570d20ea9")
 			(effects
 				(font
@@ -552,7 +557,7 @@
 			)
 		)
 		(pin "~{CS}" input
-			(at 101.6 45.72 0)
+			(at 95.25 77.47 0)
 			(uuid "e5b17897-30a1-4b0a-a267-a08d3bc78c0b")
 			(effects
 				(font
@@ -562,7 +567,7 @@
 			)
 		)
 		(pin "INT1" bidirectional
-			(at 101.6 59.69 0)
+			(at 95.25 91.44 0)
 			(uuid "94c42cf5-19cd-48d2-a8b2-cc74bad552a6")
 			(effects
 				(font
@@ -572,7 +577,7 @@
 			)
 		)
 		(pin "INT2" bidirectional
-			(at 101.6 57.15 0)
+			(at 95.25 88.9 0)
 			(uuid "9154aec3-c8b8-48d1-81ef-acb4f594eb19")
 			(effects
 				(font
@@ -590,7 +595,7 @@
 		)
 	)
 	(sheet
-		(at 88.9 33.02)
+		(at 82.55 64.77)
 		(size 12.7 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -606,7 +611,7 @@
 		)
 		(uuid "8fe3218c-f9da-47db-a71a-ac29f27c2bd7")
 		(property "Sheetname" "Battery"
-			(at 88.9 32.3084 0)
+			(at 82.55 64.0584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -615,7 +620,7 @@
 			)
 		)
 		(property "Sheetfile" "battery.kicad_sch"
-			(at 88.9 38.6846 0)
+			(at 82.55 70.4346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -624,7 +629,7 @@
 			)
 		)
 		(pin "SENSE" output
-			(at 101.6 35.56 0)
+			(at 95.25 67.31 0)
 			(uuid "5418f555-ae52-4d07-ab85-f39aa668c6d6")
 			(effects
 				(font
@@ -642,7 +647,7 @@
 		)
 	)
 	(sheet
-		(at 177.8 45.72)
+		(at 171.45 77.47)
 		(size 52.07 52.07)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -658,7 +663,7 @@
 		)
 		(uuid "c434873e-36bd-4491-a7d1-109b760a090c")
 		(property "Sheetname" "Motor"
-			(at 177.8 45.0084 0)
+			(at 171.45 76.7584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -667,7 +672,7 @@
 			)
 		)
 		(property "Sheetfile" "motor.kicad_sch"
-			(at 177.8 98.3746 0)
+			(at 171.45 130.1246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -676,7 +681,7 @@
 			)
 		)
 		(pin "HALL_DATA" bidirectional
-			(at 177.8 78.74 180)
+			(at 171.45 110.49 180)
 			(uuid "e542c3f9-8b88-467a-9cb1-b7db99b0acac")
 			(effects
 				(font
@@ -686,7 +691,7 @@
 			)
 		)
 		(pin "HALL_SCK" input
-			(at 177.8 76.2 180)
+			(at 171.45 107.95 180)
 			(uuid "632d431e-5238-448b-b5a5-cc02be570850")
 			(effects
 				(font
@@ -696,7 +701,7 @@
 			)
 		)
 		(pin "SENSE_1" output
-			(at 177.8 85.09 180)
+			(at 171.45 116.84 180)
 			(uuid "13b8427e-bfe5-44f4-940d-b375a77549c9")
 			(effects
 				(font
@@ -706,7 +711,7 @@
 			)
 		)
 		(pin "SENSE_2" output
-			(at 177.8 87.63 180)
+			(at 171.45 119.38 180)
 			(uuid "9367f9db-8443-4f6c-b67c-00357877ea64")
 			(effects
 				(font
@@ -716,7 +721,7 @@
 			)
 		)
 		(pin "SENSE_3" output
-			(at 177.8 90.17 180)
+			(at 171.45 121.92 180)
 			(uuid "c0602eb1-39a9-4842-a948-29c606e44707")
 			(effects
 				(font
@@ -726,7 +731,7 @@
 			)
 		)
 		(pin "TEMP" output
-			(at 177.8 95.25 180)
+			(at 171.45 127 180)
 			(uuid "0a13b7ee-e170-4cf2-92b9-e4df878633b6")
 			(effects
 				(font
@@ -736,7 +741,7 @@
 			)
 		)
 		(pin "TIM1_CH1" input
-			(at 177.8 48.26 180)
+			(at 171.45 80.01 180)
 			(uuid "93b1acde-6e8d-4e71-875a-23cb4497a9e3")
 			(effects
 				(font
@@ -746,7 +751,7 @@
 			)
 		)
 		(pin "TIM1_CH1N" input
-			(at 177.8 50.8 180)
+			(at 171.45 82.55 180)
 			(uuid "66b16e9b-d741-42d3-b077-2d147e0382b6")
 			(effects
 				(font
@@ -756,7 +761,7 @@
 			)
 		)
 		(pin "TIM1_CH2" input
-			(at 177.8 54.61 180)
+			(at 171.45 86.36 180)
 			(uuid "e3c3fb54-fa27-4bdd-b039-520d3355f56d")
 			(effects
 				(font
@@ -766,7 +771,7 @@
 			)
 		)
 		(pin "TIM1_CH2N" input
-			(at 177.8 57.15 180)
+			(at 171.45 88.9 180)
 			(uuid "49a82c7d-a2ab-4ae0-8232-e0d5f731c0c2")
 			(effects
 				(font
@@ -776,7 +781,7 @@
 			)
 		)
 		(pin "TIM1_CH3" input
-			(at 177.8 60.96 180)
+			(at 171.45 92.71 180)
 			(uuid "4962e99a-5b6b-4629-bcfc-2163a8a3a23d")
 			(effects
 				(font
@@ -786,7 +791,7 @@
 			)
 		)
 		(pin "TIM1_CH3N" input
-			(at 177.8 63.5 180)
+			(at 171.45 95.25 180)
 			(uuid "a3e96b42-fd69-44fb-aa11-bee5fc709c45")
 			(effects
 				(font
@@ -796,7 +801,7 @@
 			)
 		)
 		(pin "~{FAULT}" output
-			(at 177.8 68.58 180)
+			(at 171.45 100.33 180)
 			(uuid "3a29f1fd-f8c8-41a5-9c8e-d7787a6eb81b")
 			(effects
 				(font
@@ -806,7 +811,7 @@
 			)
 		)
 		(pin "~{HALL_CS}" input
-			(at 177.8 73.66 180)
+			(at 171.45 105.41 180)
 			(uuid "c0b646fe-758d-4729-92e9-e7b1b65c1726")
 			(effects
 				(font
@@ -824,7 +829,7 @@
 		)
 	)
 	(sheet
-		(at 177.8 31.75)
+		(at 171.45 63.5)
 		(size 19.05 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -840,7 +845,7 @@
 		)
 		(uuid "f9dbfb64-6ce6-433d-a15e-bf3362d8eba9")
 		(property "Sheetname" "RF"
-			(at 177.8 31.0384 0)
+			(at 171.45 62.7884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -849,7 +854,7 @@
 			)
 		)
 		(property "Sheetfile" "rf.kicad_sch"
-			(at 177.8 39.9546 0)
+			(at 171.45 71.7046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -858,7 +863,7 @@
 			)
 		)
 		(pin "RF" bidirectional
-			(at 177.8 35.56 180)
+			(at 171.45 67.31 180)
 			(uuid "ac7a7fe0-e8b1-4698-9d1b-ecdb38904409")
 			(effects
 				(font

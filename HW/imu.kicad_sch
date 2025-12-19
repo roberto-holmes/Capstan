@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "2ff3ad58-925a-48fa-8041-40fb8b1cec1d")
 	(paper "A4")
+	(title_block
+		(title "Capstan")
+		(date "2025-09-26")
+		(company "Roberto Holmes")
+	)
 	(lib_symbols
 		(symbol "BMI270:BMI270"
 			(pin_names
@@ -813,8 +818,8 @@
 	)
 	(text_box "We want an IMU so we can detect if the device has lost control and starts spinning"
 		(exclude_from_sim no)
-		(at 105.41 52.07 0)
-		(size 22.86 16.51)
+		(at 153.67 166.37 0)
+		(size 22.86 15.24)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)

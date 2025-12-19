@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "3979562c-7dfe-48b2-b099-5971176e94b8")
 	(paper "A4")
+	(title_block
+		(title "Capstan")
+		(date "2025-09-26")
+		(company "Roberto Holmes")
+	)
 	(lib_symbols
 		(symbol "+BATT_1"
 			(power)
@@ -5684,26 +5689,6 @@
 			(justify left bottom)
 		)
 		(uuid "e72acc17-572a-48f4-b3e4-766454a6a095")
-	)
-	(text_box "TODO:\n - Do we need an external LSE?"
-		(exclude_from_sim no)
-		(at 224.79 15.24 0)
-		(size 55.88 25.4)
-		(margins 0.9525 0.9525 0.9525 0.9525)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left top)
-		)
-		(uuid "6408984a-1d11-4513-b432-08d0c07b8636")
 	)
 	(junction
 		(at 228.6 114.3)
